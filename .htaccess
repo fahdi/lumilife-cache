@@ -1,0 +1,3 @@
+Options +FollowSymlinks
+RewriteEngine on
+RewriteRule ^([^/.]+)/([^/.]+)/([^/.]+)?$ $2-$3.html
