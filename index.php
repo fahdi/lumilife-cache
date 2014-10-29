@@ -24,7 +24,9 @@ $page.='.html';
 
  
 if (is_readable($page)) { 
-	echo $page;
+    if($ee){
+	   echo $page;
+    }
   include($page); 
 } else {
   header("HTTP/1.0 404 Not Found");
