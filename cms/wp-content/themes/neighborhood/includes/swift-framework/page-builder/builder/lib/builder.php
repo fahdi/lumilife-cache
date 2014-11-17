@@ -314,7 +314,7 @@
 				Cupertino CA
 				95014
 				
-				Email: <a href="http://neighborhood.swiftideas.net/contact/" target="_blank">youremail@yourdomain.com
+				Email: <a href="http://neighborhood.swiftideas.net/contact" target="_blank">youremail@yourdomain.com
 				</a>Twitter: <a href="https://twitter.com/swiftIdeas">@SwiftIdeas</a>
 				Phone: +44 (0) 208 0000 000
 				Fax: +44 (0) 208 0000 001

@@ -138,7 +138,7 @@ Yes, indirectly - if you have a lot of bloggers working with you, you will find 
 
 = Which web servers do you support? =
 
-We are aware of no incompatibilities with [apache](http://httpd.apache.org/) 1.3+, [IIS](http://www.iis.net/) 5+ or [litespeed](http://litespeedtech.com/products/webserver/overview/) 4.0.2+. If there's a web server you feel we should be actively testing (e.g. [lighttpd](http://www.lighttpd.net/)), we're [interested in hearing](http://www.w3-edge.com/contact/).
+We are aware of no incompatibilities with [apache](http://httpd.apache.org/) 1.3+, [IIS](http://www.iis.net/) 5+ or [litespeed](http://litespeedtech.com/products/webserver/overview/) 4.0.2+. If there's a web server you feel we should be actively testing (e.g. [lighttpd](http://www.lighttpd.net/)), we're [interested in hearing](http://www.w3-edge.com/contact).
 
 = Is this plugin server cluster and load balancer friendly? =
 
@@ -255,7 +255,7 @@ You will be able to see it instantly on each page load, but for tangible metrics
 
 = I don't have time to deal with this, but I know I need it. Will you help me? =
 
-Yes! Please [reach out to us](http://www.w3-edge.com/contact/) and we'll get you acclimated so you can "set it and forget it."
+Yes! Please [reach out to us](http://www.w3-edge.com/contact) and we'll get you acclimated so you can "set it and forget it."
 
 Install the plugin to read the full FAQ on the plugins FAQ tab.
 

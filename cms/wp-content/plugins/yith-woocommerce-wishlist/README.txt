@@ -164,7 +164,7 @@ If you have suggestions about how to improve YITH WooCommerce Wishlist, you can 
 * Italiano
 
 If you have created your own language pack, or have an update for an existing one, you can send [gettext PO and MO file](http://codex.wordpress.org/Translating_WordPress "Translating WordPress")
-[use](http://yithemes.com/contact/ "Your Inspiration Themes") so we can bundle it into YITH WooCommerce Wishlist Languages.
+[use](http://yithemes.com/contact "Your Inspiration Themes") so we can bundle it into YITH WooCommerce Wishlist Languages.
 
 == Documentation ==
 

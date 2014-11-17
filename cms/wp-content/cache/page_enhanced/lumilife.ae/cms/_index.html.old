@@ -547,7 +547,7 @@ width: 150px;
 <li id="menu-item-11140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife">Why Lumilife</a></li>
 <li id="menu-item-11092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects">Projects</a></li>
 <li id="menu-item-10384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 "><a href="http://lumilife.ae/cms/faqs">FAQs</a></li>
-<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact/">Contact</a></li>
+<li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact">Contact</a></li>
 </ul></div></nav>
 </div>
 </div> <!-- CLOSE .row -->
@@ -659,7 +659,7 @@ width: 150px;
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife">Why Lumilife</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 "><a href="http://lumilife.ae/cms/faqs">FAQs</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact/">Contact</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact">Contact</a></li>
 </ul></div></nav>
 
 </div>
@@ -740,7 +740,7 @@ width: 150px;
 					 data-y="258" 
 					 data-speed="300" 
 					 data-start="1400" 
-					 data-easing="easeOutExpo"  ><a href="http://lumilife.ae/cms/contact/"><img src="http://lumilife.ae/cms/wp-content/uploads/2014/04/01.png" alt="Image 9"></a></div>
+					 data-easing="easeOutExpo"  ><a href="http://lumilife.ae/cms/contact"><img src="http://lumilife.ae/cms/wp-content/uploads/2014/04/01.png" alt="Image 9"></a></div>
 												</li>
 								</ul>
 									<div class="tp-bannertimer"></div>					</div>
