@@ -544,8 +544,8 @@ width: 150px;
 </li>
 </ul>
 </li>
-<li id="menu-item-11140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife/">Why Lumilife</a></li>
-<li id="menu-item-11092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects/">Projects</a></li>
+<li id="menu-item-11140" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife">Why Lumilife</a></li>
+<li id="menu-item-11092" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects">Projects</a></li>
 <li id="menu-item-10384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 "><a href="http://lumilife.ae/cms/faqs/">FAQs</a></li>
 <li id="menu-item-10385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact/">Contact</a></li>
 </ul></div></nav>
@@ -656,8 +656,8 @@ width: 150px;
 </li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife/">Why Lumilife</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects/">Projects</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11140 "><a href="http://lumilife.ae/cms/why-lumilife">Why Lumilife</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11092 "><a href="http://lumilife.ae/cms/projects">Projects</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10384 "><a href="http://lumilife.ae/cms/faqs/">FAQs</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10385 default"><a href="http://lumilife.ae/cms/contact/">Contact</a></li>
 </ul></div></nav>
@@ -726,7 +726,7 @@ width: 150px;
 					 data-y="28" 
 					 data-speed="300" 
 					 data-start="800" 
-					 data-easing="easeOutExpo"  ><a href="http://lumilife.ae/cms/why-lumilife/"><img src="http://lumilife.ae/cms/wp-content/uploads/2014/04/03.png" alt="Image 7"></a></div>
+					 data-easing="easeOutExpo"  ><a href="http://lumilife.ae/cms/why-lumilife"><img src="http://lumilife.ae/cms/wp-content/uploads/2014/04/03.png" alt="Image 7"></a></div>
 								
 				<div class="tp-caption sft"  
 					 data-x="129" 
@@ -837,14 +837,14 @@ width: 150px;
 	<div class="spb_content_element span3 spb_text_column">
 		<div class="spb_wrapper clearfix">
 			
-<p><a href="http://lumilife.ae/cms/why-lumilife/"><img class="alignnone size-full wp-image-11167" alt="1" src="http://lumilife.ae/cms/wp-content/uploads/2013/03/12.jpg" width="460" height="238" /></a></p>
+<p><a href="http://lumilife.ae/cms/why-lumilife"><img class="alignnone size-full wp-image-11167" alt="1" src="http://lumilife.ae/cms/wp-content/uploads/2013/03/12.jpg" width="460" height="238" /></a></p>
 
 		</div> 
 	</div>  
 	<div class="spb_content_element span3 spb_text_column">
 		<div class="spb_wrapper clearfix">
 			
-<p><a href="http://lumilife.ae/cms/projects/"><img class="alignnone size-full wp-image-10441" alt="2" src="http://lumilife.ae/cms/wp-content/uploads/2013/03/2.jpg" width="460" height="238" /></a></p>
+<p><a href="http://lumilife.ae/cms/projects"><img class="alignnone size-full wp-image-10441" alt="2" src="http://lumilife.ae/cms/wp-content/uploads/2013/03/2.jpg" width="460" height="238" /></a></p>
 
 		</div> 
 	</div>  

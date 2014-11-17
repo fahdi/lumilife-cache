@@ -35,7 +35,7 @@ Breadcrumb NavXT distributes with translations for the following languages:
 * Finnish by Ville Pilvio
 * Chinese (China) by Amos Lee
 
-Don't see your language on the list? Stop by [Breadcrumb NavXT's translation project](http://translate.mtekk.us/projects/breadcrumb-navxt "Go to Breadcrumb NavXT's GlotPress based translation project").
+Don't see your language on the list? Stop by [Breadcrumb NavXT's translation project](http://translate.mtekk.us/projectsbreadcrumb-navxt "Go to Breadcrumb NavXT's GlotPress based translation project").
 
 == Installation ==
 Open the appropriate file for your theme (typically header.php). This can be done within WordPress’ administration panel through Presentation > Theme Editor or through your favorite text editor. Place the following code where you want the breadcrumb trail to appear.

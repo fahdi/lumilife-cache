@@ -22,7 +22,7 @@ License along with this library; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 The NuSOAP project home is:
-http://sourceforge.net/projects/nusoap/
+http://sourceforge.net/projectsnusoap/
 
 The primary support for NuSOAP is the Help forum on the project home page.
 

@@ -15,7 +15,7 @@
  * 10 January 2008
  * Version: 1.2
  *
- * Source website: http://www.pgregg.com/projects/php/ip_in_range/
+ * Source website: http://www.pgregg.com/projectsphp/ip_in_range/
  * Version 1.2
  *
  * This software is Donationware - if you feel you have benefited from

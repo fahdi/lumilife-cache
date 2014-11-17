@@ -2007,7 +2007,7 @@ Custom jQuery functions.
  *   http://www.opensource.org/licenses/mit-license.php
  *
  * Project home:
- *  http://www.appelsiini.net/projects/viewport
+ *  http://www.appelsiini.net/projectsviewport
  *
  */
 

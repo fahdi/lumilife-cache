@@ -551,7 +551,7 @@ Reference material:
 * http://www.fastgraph.com/help/bmp_os2_header_format.html
 * http://netghost.narod.ru/gff/graphics/summary/os2bmp.htm
 * http://flac.sourceforge.net/format.html
-* http://www.research.att.com/projects/mpegaudio/mpeg2.html
+* http://www.research.att.com/projectsmpegaudio/mpeg2.html
 * http://www.audiocoding.com/wiki/index.php?page=AAC
 * http://libmpeg.org/mpeg4/doc/w2203tfs.pdf
 * http://www.geocities.com/xhelmboyx/quicktime/formats/qtm-layout.txt

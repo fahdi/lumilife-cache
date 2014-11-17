@@ -101,7 +101,7 @@
         </entry>
         <entry>
             <question><![CDATA[ What do you use to minify? ]]></question>
-            <answer><![CDATA[ <p>  We use: <a href="http://code.google.com/p/minify/" target="_blank">minify</a> but may support various engines in the future. Based on <a href="http://ejohn.org/" target="_blank">John Resig's</a> suggestion we're currently looking at <a href="http://yuilibrary.com/projects/yuicompressor/wiki" target="_blank"><acronym title="Yahoo! User Interface">YUI</acronym> Compressor</a> and <a href="http://code.google.com/closure/compiler/" target="_blank">Google Closure Compiler</a> (for JavaScript) also.</p> ]]></answer>
+            <answer><![CDATA[ <p>  We use: <a href="http://code.google.com/p/minify/" target="_blank">minify</a> but may support various engines in the future. Based on <a href="http://ejohn.org/" target="_blank">John Resig's</a> suggestion we're currently looking at <a href="http://yuilibrary.com/projectsyuicompressor/wiki" target="_blank"><acronym title="Yahoo! User Interface">YUI</acronym> Compressor</a> and <a href="http://code.google.com/closure/compiler/" target="_blank">Google Closure Compiler</a> (for JavaScript) also.</p> ]]></answer>
         </entry>
         <entry>
             <question><![CDATA[	Will this speed up <acronym title="WordPress">WP</acronym> Admin? ]]></question>
@@ -458,7 +458,7 @@ Note: To disable page caching of specific theme templates or plugin files you ne
             </entry>
             <entry>
                 <question><![CDATA[ What if I don't want to work with a	<acronym title="Content Delivery Network">CDN</acronym>	right now, is there any other use for this feature? ]]></question>
-                <answer><![CDATA[ <p>Yes! You can take advantage of the <a href="http://www.mozilla.org/projects/netlib/http/pipelining-faq.html">pipelining</a> support in some browsers by creating a sub-domain for the static content for your site. So you could select the "Origin Push / Self-hosted" method of the General Settings tab. Create static.domain.com on your server (and update your <acronym title="Domain Name System">DNS</acronym> zone) and then specify the <acronym title="File Transfer Protocol">FTP</acronym> details for it in the plugin configuration panel and you're done. If you disable the scripting options on your server you'll find that your server will actually respond slightly faster from that sub-domain because it's just sending files and not processing them.</p> ]]></answer>
+                <answer><![CDATA[ <p>Yes! You can take advantage of the <a href="http://www.mozilla.org/projectsnetlib/http/pipelining-faq.html">pipelining</a> support in some browsers by creating a sub-domain for the static content for your site. So you could select the "Origin Push / Self-hosted" method of the General Settings tab. Create static.domain.com on your server (and update your <acronym title="Domain Name System">DNS</acronym> zone) and then specify the <acronym title="File Transfer Protocol">FTP</acronym> details for it in the plugin configuration panel and you're done. If you disable the scripting options on your server you'll find that your server will actually respond slightly faster from that sub-domain because it's just sending files and not processing them.</p> ]]></answer>
             </entry>
             <entry>
                 <question><![CDATA[	Are minified files uploaded to my <acronym title="Content Delivery Network">CDN</acronym> provider? ]]></question>
